@@ -1,0 +1,19 @@
+{
+  "name": "Html5Video",
+  "version": "1.2.2",
+  "description": "",
+  "cordova": {
+    "id": "Html5Video",
+    "platforms": [
+      "ios",
+      "wp8",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capanovi/Html5Video.git"
+  },
+  "author": "jaeger25",
+  "license": "MIT"
+}
